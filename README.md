@@ -15,12 +15,6 @@ Analyze Amazon sales data to uncover trends, product insights, customer segments
 - Geo-based insights
 - Recommendations for revenue and ops
 
-## 📁 Deliverables:
-- Jupyter notebook with full analysis
-- Visualizations folder
-- Summary PDF report (optional)
-- This README
-
 ## 📌 Tools Used:
 - Python
 - Jupyter Notebook
